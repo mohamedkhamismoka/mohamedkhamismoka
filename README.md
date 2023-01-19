@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Atif Fahmy</h1>
-<h3 align="center">.Net Full stack developer From Egypt \xF0\x9F\x98\x8A \xF0\x9F\x98\x8A</h3>
+<h3 align="center">.Net Full stack developer From Egypt 😊😊😊😊😊😊</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedkhamismoka&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedkhamismoka" /> </p>
 
